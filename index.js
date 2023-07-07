@@ -42,3 +42,5 @@ export const getFestivalById = async (id) => {
     return response.json()
 }
 
+
+
