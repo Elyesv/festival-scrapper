@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Elyesv/festival-scrapper.git"
   },
+  "type": "module",
   "author": "",
   "license": "MIT",
   "bugs": {
@@ -19,5 +20,8 @@
   "devDependencies": {
     "eslint": "^8.44.0",
     "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1"
   }
 }
